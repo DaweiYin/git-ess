@@ -1,3 +1,3 @@
-def my_square(xx):
-    return(xx ** 2)
-print(my_square(19))
+def my_square(myv):
+    return(myv ** 2)
+print(my_square(133))
