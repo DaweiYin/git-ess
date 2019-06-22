@@ -1,6 +1,3 @@
-def my_square(z):
-    """some change to test
-     add more comment
-    """
-    return(z * z)
-print(my_square(22))
+def my_square(xx):
+    return(xx ** 2)
+print(my_square(19))
